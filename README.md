@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, world! 👋
 
-<!--
-**rafaeluchacampos/rafaeluchacampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rafael. I am a newcomer to the programming world and taking my first steps in the field. 
+Passionate about movies and already a convert to the zen of Python.
 
-Here are some ideas to get you started:
+- 🌱 Learning Python, CSS and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My github stats
+
+<div align="center">
+  <a href="https://github.com/rafaeluchacampos">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaeluchacampos&show_icons=true&count_private=true&line_height=30&theme=neon"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaeluchacampos&layout=compact&theme=neon"/>
+</div>
